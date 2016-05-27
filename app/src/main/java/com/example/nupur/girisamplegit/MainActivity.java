@@ -35,8 +35,14 @@ public class MainActivity extends AppCompatActivity {
 			public void run() {
 
 				Toast.makeText(MainActivity.this, "Paused", Toast.LENGTH_SHORT).show();
+				//girigsdgsdd
 			}
 		}, 2000);
+
+
+
+		//just now
+
 
 
 	}
